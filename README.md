@@ -2,7 +2,7 @@
   💻<br>Simple NextJS dashboard template
 </h1>
 
-![Resultado final do projeto](public/preview.png)
+![Resultado final do projeto](public/preview.jpg)
 
 
 ## 📚 Description
